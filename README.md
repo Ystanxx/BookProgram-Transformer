@@ -1,4 +1,4 @@
-# Transformer拉曼光谱混合物分析系统
+# Transformer拉曼光谱混合物分析
 
 ## 项目简介
 
